@@ -1,3 +1,3 @@
 Full-stack developer capstone
 
-this poject is about car dealership 
+this project is about car dealership 
